@@ -1,3 +1,16 @@
-Scraping Data: I used the GitHub API to scrape all users in London with over 500 followers, then fetched up to 500 repositories for each user.
-Interesting Finding: Most users in London with over 500 followers work in tech and have repositories primarily in Python and JavaScript.
-Recommendation: Developers should focus on contributing to repositories with high stargazers in popular languages like Python and JavaScript to increase visibility.
+# GitHub Users in London
+
+This repository contains data about GitHub users in London with over 500 followers and their repositories.
+
+## Files
+
+1. `users1.csv`: Contains information about 326 GitHub users in London with over 500 followers
+2. `repositories1.csv`: Contains information about 39363 public repositories from these users
+3. `gitscrap.py`: Python script used to collect this data
+
+## Data Collection
+
+- Data collected using GitHub API
+- Date of collection: 2024-10-29
+- Only included users with 500+ followers
+- Up to 500 most recently pushed repositories per user
