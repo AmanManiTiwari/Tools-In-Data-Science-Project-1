@@ -1,6 +1,4 @@
-# GitHub Users in London
-
-This repository contains data about GitHub users in London with over 500 followers and their repositories.
+# GitHub Users in London with more than 500 followers
 
 ## Files
 
@@ -11,6 +9,5 @@ This repository contains data about GitHub users in London with over 500 followe
 ## Data Collection
 
 - Data collected using GitHub API
-- Date of collection: 2024-10-29
-- Only included users with 500+ followers
-- Up to 500 most recently pushed repositories per user
+- JavaScript repositories have accumulated the highest stargazer count by far, totaling over 460,000 stars, indicating its dominance in open-source development.
+- ##Focus on JavaScript and Go for New Projects:## Given JavaScript's established popularity and Go’s rising interest, projects built in these languages are likely to attract more attention and contributions from the community.
